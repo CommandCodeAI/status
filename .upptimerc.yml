@@ -6,6 +6,7 @@ sites:
 status-website:
   cname: status.langbase.com
   logoUrl: https://raw.githubusercontent.com/LangbaseInc/docs-images/refs/heads/main/design/logo/logo-symbol.svg
+  faviconSvg: https://raw.githubusercontent.com/langbaseinc/status/master/assets/favicon.svg
   name: Langbase Status
   navbar:
     - title: Langbase
@@ -14,7 +15,5 @@ status-website:
       href: /
     - title: Subscribe on GitHub
       href: https://github.com/$OWNER/$REPO/issues
-status-page:
-  faviconSvg: https://raw.githubusercontent.com/langbaseinc/status/master/assets/favicon.svg
 i18n:
   footer: ''
