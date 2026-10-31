@@ -5,19 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.langbase.com.ico",
     "slug": "langbase-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 983,
-    "timeDay": 1130,
-    "timeWeek": 1198,
-    "timeMonth": 1154,
+    "uptime": "99.89%",
+    "uptimeDay": "28.34%",
+    "uptimeWeek": "89.76%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "99.77%",
+    "time": 982,
+    "timeDay": 541,
+    "timeWeek": 1125,
+    "timeMonth": 1131,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2025-11-18": 172,
-      "2026-01-16": 2
+      "2026-01-16": 2,
+      "2026-10-31": 287,
+      "2026-10-30": 744
     }
   }
 ]
